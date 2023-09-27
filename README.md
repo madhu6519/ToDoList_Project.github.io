@@ -1,5 +1,7 @@
 **Problem statement**
 Create a simple Todo list with vanilla JS (as you see in the GIF below). Vanilla JS means no plugins, no libraries, nothing.
+
+
 **Features (No need for extra features, just make the listed features)**
 A minimal design with HTML and CSS, it should look nice (no libraries, no frameworks).
 A text box at the top to add a todo item to the list.
