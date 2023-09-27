@@ -1,6 +1,9 @@
+**Coding Ninjas Front End skill test**
+
+
 **Problem statement**
 
-Create a simple Todo list with vanilla JS (as you see in the GIF below). Vanilla JS means no plugins, no libraries, nothing.
+Create a simple Todo list with vanilla JS. Vanilla JS means no plugins, no libraries, nothing.
 
 
 **Features (No need for extra features, just make the listed features)**
