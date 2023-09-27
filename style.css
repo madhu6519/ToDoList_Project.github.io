@@ -69,7 +69,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(images/uncheckicon.jfif);
+    background-image: url(https://cdn.onlinewebfonts.com/svg/img_137194.png);
     background-size: cover;
     background-position: center;
     top:12px;
@@ -81,7 +81,7 @@ ul li.check{
     text-decoration: line-through;
 }
 ul li.check::before{
-    background-image: url(images/checkicon.jfif);
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/743/514/original/green-check-mark-icon-in-a-circle-free-vector.jpg);
     
 }
 ul li span{
