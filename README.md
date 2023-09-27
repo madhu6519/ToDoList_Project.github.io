@@ -6,18 +6,6 @@
 ## Problem statement
 
 Create a simple Todo list with vanilla JS. Vanilla JS means no plugins, no libraries, nothing.
-## Features
-
-->A minimal design with HTML and CSS, it should look nice (no libraries, no frameworks).
-
-->A text box at the top to add a todo item to the list.
-Add button: when a user clicks on the button, add that todo item to the list.
-
-->A delete button to delete the todo item completely from the list.
-
-->A checkbox to check the item off the list. (checked item should stay in the list, with some differentiation from rest of the todo items)
-
-->Total number of tasks in the list.
 
 ## Languages Used
 
@@ -30,12 +18,17 @@ This project helped me to understand the practical use cases of JavaScript and b
 To deploy this project run index.html file on your browser.
 
 
-## Demo
+## Installation options
 
+Using below link
+ gh repo clone madhu6519/ToDoList_Project.github.io
+
+                    or
+Simply download the Zip File and run on your system
+
+## Demo
 To check demo of the todo list application click on this link https://madhu6519.github.io/ToDoList_Project.github.io/.
 
+## App preview
 
-## Authors
-
-@ganapatimadhuri
-
+![image](https://github.com/madhu6519/ToDoList_Project.github.io/assets/64521759/0981e23c-a022-47c6-af85-f458398a7215)
