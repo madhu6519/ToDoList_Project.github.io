@@ -2,17 +2,24 @@
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--title of the page-->
         <title>To-Do List App</title>
+        <!--linking css file with HTML-->
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
+        <!--container holds todo list-->
         <div class="container">
             <div class="todolist">
+                <!--inserting a small icon beside todo list text-->
                 <h2>To-Do List<img src="https://icon-library.com/images/todo-list-icon/todo-list-icon-11.jpg" width="35px" height="35px"></h2>
                 <div class="search">
+                    <!--input box for taking text from user-->
                     <input type="text" id="inputbox" placeholder="Add your task">
+                    <!--add button will add tasks to the todo list-->
                     <button onclick="addTask()">Add</button>
                 </div>
+                <!--list of tasks-->
                 <ul id="list-container">
                     <!--<li class="check">Task 1</li>
                     <li>Task 2</li>
@@ -21,6 +28,7 @@
                 </ul>
             </div>
         </div>
+        <!--linking javascript file with html to become html page more responsive-->
         <script src="script.js"></script>
     </body>
 </html>
